@@ -9,12 +9,15 @@ body {
 
 	
 }
+.h1{
+	margin-left: 50px;
+}
 
 
 h1, h2 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
-	margin:0 0 15px 0;
+	margin:65px;
 }
 
 
@@ -91,7 +94,7 @@ a {
 	height: 50px;
 	z-index: 1000;
 	width: 100%;
-	background:#c94c4c;
+	background:black;
 }
 
 .subMenu .inner {
