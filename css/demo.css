@@ -5,7 +5,7 @@ body {
 	font-family: Helvetica, Arial, Verdana, sans-serif;
 	color: #e5e5e5;
 	font-size: 12px;
-	background:#bfbfbf;
+	background:	 #588c7e;
 
 	
 }
@@ -35,7 +35,7 @@ p {
 }
 
 a {
-	color: #3e3e3e;
+	color: 	 #588c7e;
 }
 
 
@@ -91,7 +91,7 @@ a {
 	height: 50px;
 	z-index: 1000;
 	width: 100%;
-	background: #0977bc;
+	background:#c94c4c;
 }
 
 .subMenu .inner {
@@ -115,11 +115,11 @@ a {
 	color: #fff;
 }
 .subMenu a:hover {
-	background: #1783c7;
+	background: #eea29a;
 }
 
 .active {
-	background: #25aae1;
+	background:#eea29a;
 }
 .end {
 	margin: 0;
@@ -131,7 +131,7 @@ a {
 /* SECTIONS */
 .sTop {
 	min-height: 130px;
-	background:#fff;
+	background: #96ceb4;
 	color:#3d3d3d;
 	padding: 50px 0;
 	height: 300px;
@@ -171,7 +171,10 @@ a {
 .s6 {
 	background: #161616;
 }
-
+.img-top{
+	border-radius: 5em;
+	margin-left: 270px;
+}
 
 
 
